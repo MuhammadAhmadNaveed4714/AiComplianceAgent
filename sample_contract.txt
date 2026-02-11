@@ -1,0 +1,3 @@
+This contract states that all payments will be processed within 60 days.
+The company stores all customer data on cloud servers using standard encryption methods.
+The vendor's total liability shall not exceed the total contract value.
